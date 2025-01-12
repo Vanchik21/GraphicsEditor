@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileManager">
+    <Position X="15.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAAAAAAAAAAAAUAABAAAAAAAAAA=</HashCode>
+      <FileName>FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics_editor.DrawingService">
+    <Position X="7" Y="6.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAQAAAAAAAAAAAAACAACBAAAAAAAkEAQAAAAIA=</HashCode>
+      <FileName>DrawingService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics_editor.ColorMatrixPresets">
+    <Position X="4.75" Y="6.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAACAIBgAAAAAABAAAAAAAAAABAAAAAAQAAAAAAoAAA=</HashCode>
+      <FileName>ColorMatrixPresets.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics_editor.Form1">
+    <Position X="9.5" Y="1" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>H8sgh/8JBilgcIIjIG7OwyVSi7RIcMiIYR8dzKBAfEA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics_editor.Form2">
+    <Position X="12.75" Y="1" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>DSCAwAAAEKCABRMIETDA4AACCAhoABEIQoAAAABABcE=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics_editor.ImageProcessor">
+    <Position X="2.5" Y="6.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAwAAAAAEQgAAAAEAAAAQAAAIAAAAQAAiAA=</HashCode>
+      <FileName>ImageProcessor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Graphics_editor.NotificationService">
+    <Position X="17.75" Y="4.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotificationService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
