@@ -48,6 +48,16 @@
   <ItemGroup>
     <Compile Include="ColorMatrixPresets.cs" />
     <Compile Include="DrawingService.cs" />
+    <Compile Include="Drawing\FontOptions.cs" />
+    <Compile Include="Drawing\PenFactory.cs" />
+    <Compile Include="Drawing\Shapes\EllipseShape.cs" />
+    <Compile Include="Drawing\Shapes\LineShape.cs" />
+    <Compile Include="Drawing\Shapes\PencilStroke.cs" />
+    <Compile Include="Drawing\Shapes\RectangleShape.cs" />
+    <Compile Include="Drawing\Shapes\TextShape.cs" />
+    <Compile Include="Drawing\Shapes\TriangleShape.cs" />
+    <Compile Include="Drawing\StrokeOptions.cs" />
+    <Compile Include="Drawing\IShape.cs" />
     <Compile Include="FileManager.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
